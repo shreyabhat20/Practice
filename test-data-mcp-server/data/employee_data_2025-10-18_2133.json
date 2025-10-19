@@ -1,0 +1,47 @@
+[
+  {
+    "employee_id": "EMP00001",
+    "name": "Allison Hill",
+    "email": "donaldgarcia@example.net",
+    "department": "Finance",
+    "position": "Chartered loss adjuster",
+    "salary": 117397,
+    "hire_date": "2024-05-19"
+  },
+  {
+    "employee_id": "EMP00002",
+    "name": "Brandon Hall",
+    "email": "hoffmanjennifer@example.net",
+    "department": "Finance",
+    "position": "Personnel officer",
+    "salary": 68893,
+    "hire_date": "2024-08-12"
+  },
+  {
+    "employee_id": "EMP00003",
+    "name": "Rhonda Smith",
+    "email": "helenpeterson@example.org",
+    "department": "Sales",
+    "position": "Legal secretary",
+    "salary": 53396,
+    "hire_date": "2021-08-01"
+  },
+  {
+    "employee_id": "EMP00004",
+    "name": "Ian Cooper",
+    "email": "lindsay78@example.org",
+    "department": "HR",
+    "position": "Careers information officer",
+    "salary": 112357,
+    "hire_date": "2023-04-15"
+  },
+  {
+    "employee_id": "EMP00005",
+    "name": "Lisa Hensley",
+    "email": "janetwilliams@example.org",
+    "department": "Marketing",
+    "position": "Cartographer",
+    "salary": 70512,
+    "hire_date": "2021-08-26"
+  }
+]

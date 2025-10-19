@@ -19,7 +19,7 @@ export default function UserCard({ user }) {
   }, [user.id]);
 
   return (
-    <Card variant="outlined" sx={{ maxWidth: 300, mx: "auto", backgroundColor: "#e3f2fd", borderRadius: 2, boxShadow: 3, "&:hover": { boxShadow: 6, transform: "scale(1.02)" },
+    <Card className="Card" variant="outlined" sx={{ maxWidth: 300, mx: "auto", backgroundColor: "#e3f2fd", borderRadius: 2, boxShadow: 3, "&:hover": { boxShadow: 6, transform: "scale(1.02)" },
     transition: "all 0.2s ease-in-out", }}>
       <CardContent sx={{ p: 1 }}>
         <Typography variant="h6">{user.name}</Typography>

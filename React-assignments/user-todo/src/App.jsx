@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { Container, Typography, CircularProgress, Alert } from "@mui/material";
 import UserList from "./components/UserList";
+import './index.css'
+
 
 export default function App() {
   const [users, setUsers] = useState([]);
