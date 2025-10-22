@@ -23,3 +23,7 @@ Built using **React**, **Material UI (MUI)**, and the **Fetch API**.
 - **Conditional Rendering** – for loading/error/empty states  
 - **Props** – for passing user and todo information between components  
 - **JSX** – to structure UI with MUI components
+
+
+## Containerized using **Docker** and served with Nginx and pushed to Docker Hub
+- https://hub.docker.com/r/shreyabhat20/user-todo-app
