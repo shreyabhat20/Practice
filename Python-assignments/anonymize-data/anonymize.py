@@ -1,3 +1,7 @@
+'''You are having CSV file which contains name, email, phone and city information. As the email and phone number are sensitive, you must anonymize as below
+•	Phone numbers must be masked and should display only last 4 digits. XXXXXX2341
+•	Emails should be hashed. Please use SHA256'''
+
 import hashlib
 import re
 import csv 
