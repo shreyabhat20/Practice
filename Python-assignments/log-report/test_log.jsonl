@@ -1,0 +1,10 @@
+{"timestamp": "2025-10-13 10:00:00", "level": "ERROR", "message": "DB failed to connect", "service": "UserService"}
+{"timestamp": "2025-10-13 10:05:00", "level": "INFO", "message": "User login successful", "service": "UserService"}
+{"timestamp": "2025-10-13 10:10:00", "level": "WARNING", "message": "Inventory low", "service": "InventoryService"}
+{"timestamp": "2025-10-13 10:15:00", "level": "ERROR", "message": "Payment gateway error", "service": "PaymentService"}
+{"timestamp": "2025-10-13 10:20:00", "level": "DEBUG", "message": "Notification sent", "service": "NotificationService"}
+{"timestamp": "2025-10-13 10:25:00", "level": "ERROR", "message": "Order not found", "service": "OrderService"}
+{"timestamp": "2025-10-13 10:30:00", "level": "INFO", "message": "Order placed successfully", "service": "OrderService"}
+{"timestamp": "2025-10-13 10:35:00", "level": "ERROR", "message": "Invalid user credentials", "service": "UserService"}
+{"timestamp": "2025-10-13 10:40:00", "level": "WARNING", "message": "Service unavailable", "service": "NotificationService"}
+{"timestamp": "2025-10-13 10:45:00", "level": "DEBUG", "message": "Inventory updated", "service": "InventoryService"}
