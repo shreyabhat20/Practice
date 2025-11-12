@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Compiled extensions
+*.so
+
+# Build / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs / Reports
+*.log
+*.out
+*.err
+coverage/
+htmlcov/
+*.cover
+
+# IDE / Editor Files
+.vscode/
+.idea/
+
+# System / OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bhats/Desktop/Practice/model-eval-practice/mlruns/556275156573404838/9cb413f6d2d5433daf8a98752a007adb/artifacts
+end_time: 1762879814553
+entry_point_name: ''
+experiment_id: '556275156573404838'
+lifecycle_stage: active
+run_id: 9cb413f6d2d5433daf8a98752a007adb
+run_name: powerful-fowl-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762879805759
+status: 4
+tags: []
+user_id: bhats

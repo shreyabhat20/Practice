@@ -1,0 +1,8 @@
+digest: 730d5e21
+name: dataset
+profile: '{"num_rows": 2, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "string", "name": "ground_truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "bhats", "mlflow.source.name": "c:/Users/bhats/Desktop/Practice/model-eval-practice/test.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "ef137b623e7cf313f88c7d40f7a7c55cfa89b9fa"}}'
+source_type: code

@@ -1,0 +1,25 @@
+artifact_path: file:///C:/Users/bhats/Desktop/Practice/model-eval-practice/mlruns/556275156573404838/models/m-4b2b434360a04cb5a086594d6f198ee0/artifacts
+flavors:
+  openai:
+    code: null
+    data: model.yaml
+    openai_version: 2.7.2
+  python_function:
+    data: model.yaml
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.openai
+    python_version: 3.14.0
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-4b2b434360a04cb5a086594d6f198ee0
+model_uuid: m-4b2b434360a04cb5a086594d6f198ee0
+prompts: null
+run_id: 9cb413f6d2d5433daf8a98752a007adb
+signature:
+  inputs: '[{"type": "string", "required": true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-11 16:50:06.413297'

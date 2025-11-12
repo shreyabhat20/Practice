@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/bhats/Desktop/Practice/model-eval-practice/mlruns/556275156573404838/models/m-4b2b434360a04cb5a086594d6f198ee0/artifacts
+creation_timestamp: 1762879806365
+experiment_id: '556275156573404838'
+last_updated_timestamp: 1762879810504
+model_id: m-4b2b434360a04cb5a086594d6f198ee0
+model_type: null
+name: model
+source_run_id: 9cb413f6d2d5433daf8a98752a007adb
+status: 2
+status_message: null

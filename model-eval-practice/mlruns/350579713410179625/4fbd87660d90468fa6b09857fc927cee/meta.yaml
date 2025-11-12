@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/bhats/Desktop/Practice/model-eval-practice/mlruns/350579713410179625/4fbd87660d90468fa6b09857fc927cee/artifacts
+end_time: 1762879931598
+entry_point_name: ''
+experiment_id: '350579713410179625'
+lifecycle_stage: active
+run_id: 4fbd87660d90468fa6b09857fc927cee
+run_name: dapper-asp-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762879925731
+status: 3
+tags: []
+user_id: bhats
